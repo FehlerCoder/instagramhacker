@@ -1,6 +1,6 @@
 
 
-# InstagلramHacker (Instagrambrute)
+# InstagramHacker (Instagrambrute)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
 ### Please dont open a new issue before you search if issue already exists
