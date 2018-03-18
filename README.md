@@ -14,8 +14,8 @@ pip install argparse requests PySocks asyncio proxybroker
 ```
 ###### Run the script
 ```
-python instabrute.py USERNAME PASSWORD_FILE
-//Example: "python instabrute.py username passwords.txt"
+python instagramhacker.py USERNAME PASSWORD_FILE
+//Example: "python instagramhacker.py fehlercoder passwords.txt"
 ```
 ## Todo List
 - [x] Finish the base
