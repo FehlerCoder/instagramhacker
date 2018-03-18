@@ -1,9 +1,7 @@
 
 
-# Instahack (Instabrute)
+# InstagلramHacker (Instagrambrute)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
-
-[![Donate](https://idpay.ir/isoheyl)
 
 ### Please dont open a new issue before you search if issue already exists
 ### Please open issue with clear name
@@ -33,3 +31,7 @@ python instabrute.py USERNAME PASSWORD_FILE
 ## [Join our channel on Telegram](https://telegram.me/FehlerCoder)
 ###### [+] Hack instagram accounts use bruteforce [+]
 
+## Note 
+```
+try to use new pass.txt & new proxy
+```
